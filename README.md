@@ -1,6 +1,8 @@
 # Stock_Prediction_CNN
 Building Images out of High Frequency Stock Data to make Return Forecasts using a Convolutional Neural Network
 
+*Important Disclaimer: I know this can be coded MUCH more efficient, back then I was still very early in the learning curve. Maybe I'll improve the code if I find the time in the future. I have learned a lot since starting my data science masters degree.*
+
 This is my first major project in python/ jupyter. I know that there is a lot of stuff that can be improved in my code. I want to use github to document my journey as I transition from a Finance and Economics Bachelor to a Data Science Master Program. So more projects and (hopefully) improved code to come.
 
 The files show different versions of the CNNs on an example stock, as well as the code used for a comparison against an ARIMA model.
